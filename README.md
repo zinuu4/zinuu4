@@ -16,7 +16,9 @@
 
 - 📄 Know about my experiences [https://zinovylebed.com/](https://zinovylebed.com/)
 
-- ⚡ Fun fact **My first crush was my friend mom**
+- 👩🏻‍💻 CodeWars https://www.codewars.com/users/zinuu4
+
+- 🔫 LeetCode https://leetcode.com/zinuu4/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
