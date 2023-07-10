@@ -4,19 +4,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinuu4&label=Profile%20views&color=0e75b6&style=flat" alt="zinuu4" /> </p>
 
-- 👨‍💻 All of my projects are available at <a target='_blank' href='https://zinovylebed.com/'>****click****<a/>
+- 👨‍💻 All of my projects are available at <a target='blank' href='https://zinovylebed.com/'>****click****<a/>
 
-- 📄 Know about my experiences <a target='_blank' href='https://drive.google.com/file/d/18D-peVUmYjrjzFSUspTOhaHGuG2CqH5x/view'>****click****<a/>
+- 📄 Know about my experiences <a target='blank' href='https://drive.google.com/file/d/18D-peVUmYjrjzFSUspTOhaHGuG2CqH5x/view'>****click****<a/>
 
-- 📫 How to reach me <a target='_blank' href='https://t.me/zinu_4'>Telegram / <a/><a target='_blank' href='mailto:lebedzinovij4@gmail.com'>Email<a/>
+- 📫 How to reach me <a target='blank' href='https://t.me/zinu_4'>Telegram / <a/><a target='blank' href='mailto:lebedzinovij4@gmail.com'>Email<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zinoviy-lebed-958515270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zinoviy-lebed-958515270" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zinuu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zinuu4" height="30" width="40" /></a>
 <a href="https://twitter.com/@lebedzinoviy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lebedzinoviy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22159403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22159403" height="30" width="40" /></a>
 <a href="https://discord.gg/480633845213822986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="480633845213822986" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Algorithms:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/zinuu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zinuu4" height="30" width="40" /></a>
+  
+<a href="https://www.codewars.com/users/zinuu4" target="blank"><img align="center" src="https://www.codewars.com/users/zinuu4/badges/large?theme=light" alt="zinuu4" height="30" width="270" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
