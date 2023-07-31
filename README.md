@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinuu4&label=Profile%20views&color=0e75b6&style=flat" alt="zinuu4" /> </p>
 
-- 👨‍💻 [Portfolio](https://zinovylebed.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://zinovylebed.com/)
 
-- 📄 [CV](https://drive.google.com/file/d/10_euNMN9faIiqSh32cFsIjDadaRD7m1z/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10_euNMN9faIiqSh32cFsIjDadaRD7m1z/view?usp=drive_link)
 
 - 📫 How to reach me <a target='blank' href='https://t.me/zinu_4'>Telegram / <a/><a target='blank' href='mailto:lebedzinovij4@gmail.com'>Email<a/>
 
