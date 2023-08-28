@@ -76,15 +76,15 @@
   <tr>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React.js" />
       </a>
-      <br>React JS
+      <br>React.js
     </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next.js" />
       </a>
-      <br>Next JS
+      <br>Next.js
     </td>
  <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
@@ -133,6 +133,37 @@
   </tr> 
 </table>
 
+> Backend
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
+
 > Testing
 
 <table width='100%'>
@@ -145,13 +176,13 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="React testing library" />
       </a>
       <br>RT library
     </td>
         <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="Storybook" />
       </a>
       <br>Storybook
     </td>
@@ -164,34 +195,21 @@
   <tr>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="ESLint" />
       </a>
       <br>ESlint
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>Prettier
     </td>
         <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Stylelint" />
       </a>
       <br>Stylelint
-    </td>
-  </tr> 
-</table>
-
-> Backend
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
     </td>
   </tr> 
 </table>
