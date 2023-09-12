@@ -233,5 +233,3 @@
   
 <a href="https://www.codewars.com/users/zinuu4" target="blank"><img align="center" src="https://www.codewars.com/users/zinuu4/badges/large?theme=light" alt="zinuu4" height="30" width="270" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zinuu4&" alt="zinuu4" /></p>
